@@ -42,8 +42,7 @@ By integrating multiple datasets and applying various machine learning algorithm
 ```
 ├── notebook/              # Jupyter notebook for EDA and modeling
 ├── models/                 # Trained model files
-├── presentation/           # Project slides and demo
-├── paper/                  # Research paper
+├── docs/                  # Research paper & Project slides and demo 
 └── README.md              # This file
 ```
 
