@@ -44,7 +44,6 @@ By integrating multiple datasets and applying various machine learning algorithm
 ├── app/                      # Code for the interactive web interface 
 ├── models/                   # Serialized trained model files 
 ├── docs/                     # Research paper and project slides
-├── data/                     # Directory for datasets 
 ├── README.md                 # Project overview and documentation
 └── requirements.txt          # Python dependencies 
 ```
