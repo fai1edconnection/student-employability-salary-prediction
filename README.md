@@ -40,11 +40,8 @@ By integrating multiple datasets and applying various machine learning algorithm
 
 ## 📁 Repository Structure
 ```
-├── data/                    # Processed datasets
-├── notebooks/              # Jupyter notebooks for EDA and modeling
-├── src/                    # Source code for preprocessing and models
+├── notebook/              # Jupyter notebook for EDA and modeling
 ├── models/                 # Trained model files
-├── results/                # Evaluation metrics and visualizations
 ├── presentation/           # Project slides and demo
 ├── paper/                  # Research paper
 └── README.md              # This file
