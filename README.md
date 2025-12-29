@@ -96,7 +96,7 @@ By integrating multiple datasets and applying various machine learning algorithm
 
 ## Contributors
 
-- Sarah Eid | @JudyAbuquta | Nancy Elhaddad | Passent Elkafrawy
+- Sarah Eid | [Judy Abuquta](https://github.com/JudyAbuquta) | Nancy Elhaddad | Passent Elkafrawy
 - Effat University, College of Engineering, Computer Science Department
 - Jeddah, Saudi Arabia
 
